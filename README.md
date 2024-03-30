@@ -6,7 +6,7 @@ to select the best surfing location from five different locations,
 using weather data available through the Weatherbit.io API.
 
 ## Installation Instructions
-1. Clone the repository: `git clone //!!!!!!!<repository_url>`
+1. Clone the repository: `git clone https://github.com/pawelmachnik/SurfingWeatherApp.git`
 2. Open the project in a Maven-compatible IDE.
 3. Build the application: `mvn clean install`
 4. Run the application: `mvn spring-boot:run`
